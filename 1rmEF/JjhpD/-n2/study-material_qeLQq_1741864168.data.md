@@ -86,7 +86,6 @@ Examples below
 * Onboarding and termination processes - make sure people are given least privilege. take away access, badge, account, change passwords.
 * Vendor, consultant, and contractor agreements and controls - your business has security requirements when dealing business with them.  if their code is in yours, they must develop securely. their information systems that connect to yours must be hardened
 * Compliance policy requirements - PCI is a policy that makes sure you must follow various controls to deal with credit cards
-* Privacy policy requirements - FISMA regulates peoples PII info and that is appropriately controlled
 
 ### Understand and apply risk management concepts
 * Identify threats and vulnerabilities - NIST 800-30 defines threat sources. microsoft also has great threat model
