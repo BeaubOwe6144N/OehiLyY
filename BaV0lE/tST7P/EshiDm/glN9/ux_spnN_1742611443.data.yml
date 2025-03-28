@@ -8,7 +8,6 @@ ports:
   - port: 4000-4999
     onOpen: open-preview
 
-github:
   prebuilds:
     # enable for the master/default branch (defaults to true)
     master: true
