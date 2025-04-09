@@ -16,7 +16,6 @@
 [submodule "tlsfuzzer"]
 	path = tlsfuzzer
 	url = https://github.com/tlsfuzzer/tlsfuzzer
-[submodule "python-ecdsa"]
 	path = python-ecdsa
 	url = https://github.com/tlsfuzzer/python-ecdsa
 [submodule "tlslite-ng"]
