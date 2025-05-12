@@ -24,7 +24,6 @@ task1程序，使用python3，入口是`final_1.py`文件，但是由于爬虫�
 2. gensim  
 3. Networkx  
 
-原始文件需放在 ./raw_data 文件夹下，包含以下文件：
 （注：因 papers.txt 文件较大，没有放在文件夹中，请自行添加。）
 raw_data:  
 1. `papers.txt`
